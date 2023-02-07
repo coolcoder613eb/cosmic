@@ -1,13 +1,13 @@
 .DS_Store
-test/test
-cosasm
+#test/test
+#cosasm
 .vscode/
-imgui.ini
-asm/output.bin
+#imgui.ini
+3asm/output.bin
 *.gcda
 *.gcno
-bin/
-cosmic
+#bin/
+#cosmic
 
 # LaTeX
 # Core latex/pdflatex auxiliary files
@@ -66,6 +66,6 @@ cosmic
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+#*.exe
+#*.out
+#*.app
